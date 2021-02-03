@@ -1,0 +1,116 @@
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\PortfelBroker.csprojResolveAssemblyReference.cache
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Bankomat.baml
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Window1.baml
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Bankomat.g.cs
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Window1.g.cs
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\App.g.cs
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\PortfelBroker_MarkupCompile.cache
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\PortfelBroker.g.resources
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\bin\Debug\PortfelBroker.exe.config
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\bin\Debug\PortfelBroker.exe
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\bin\Debug\PortfelBroker.pdb
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\PortfelBroker.exe
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\PortfelBroker.pdb
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Pocup.baml
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Pocup.g.cs
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Prod.baml
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Prod.g.cs
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Registr.baml
+C:\Users\ROMA\Documents\SharpDevelop Projects\PortfelBroker\PortfelBroker\obj\Debug\Registr.g.cs
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\bin\Debug\PortfelBroker.exe.config
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\bin\Debug\PortfelBroker.exe
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\bin\Debug\PortfelBroker.pdb
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\PortfelBroker.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Bankomat.baml
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Pocup.baml
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Prod.baml
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Registr.baml
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Window1.baml
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Bankomat.g.cs
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Pocup.g.cs
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Prod.g.cs
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Registr.g.cs
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\Window1.g.cs
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\PortfelBroker_MarkupCompile.cache
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\PortfelBroker.g.resources
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\PortfelBroker.exe
+C:\Users\Сергей\Desktop\Rabota3\PortfelBroker\obj\Debug\PortfelBroker.pdb
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\bin\Debug\PortfelBroker.exe.config
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\PortfelBroker.exe
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\PortfelBroker.pdb
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\bin\Debug\PortfelBroker.exe
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\bin\Debug\PortfelBroker.pdb
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\PortfelBroker.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Bankomat.baml
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Pocup.baml
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Prod.baml
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Registr.baml
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Window1.baml
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Bankomat.g.cs
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Pocup.g.cs
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Prod.g.cs
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Registr.g.cs
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\Window1.g.cs
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\PortfelBroker_MarkupCompile.cache
+C:\Users\Сергей\Desktop\учеба\алгоритмизация и програмироване\программ 3 семестр\Rabota34\PortfelBroker\obj\Debug\PortfelBroker.g.resources
+I:\Брокерский портфель\PortfelBroker\bin\Debug\PortfelBroker.exe.config
+I:\Брокерский портфель\PortfelBroker\bin\Debug\PortfelBroker.exe
+I:\Брокерский портфель\PortfelBroker\bin\Debug\PortfelBroker.pdb
+I:\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker.csprojResolveAssemblyReference.cache
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Bankomat.baml
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Pocup.baml
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Prod.baml
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Registr.baml
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Window1.baml
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Bankomat.g.cs
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Pocup.g.cs
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Prod.g.cs
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Registr.g.cs
+I:\Брокерский портфель\PortfelBroker\obj\Debug\Window1.g.cs
+I:\Брокерский портфель\PortfelBroker\obj\Debug\App.g.cs
+I:\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker_MarkupCompile.cache
+I:\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker.g.resources
+I:\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker.exe
+I:\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker.pdb
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\bin\Debug\PortfelBroker.exe.config
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\bin\Debug\PortfelBroker.exe
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\bin\Debug\PortfelBroker.pdb
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker.csprojAssemblyReference.cache
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Bankomat.baml
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Pocup.baml
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Prod.baml
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Registr.baml
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Window1.baml
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Bankomat.g.cs
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Pocup.g.cs
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Prod.g.cs
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Registr.g.cs
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\Window1.g.cs
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\App.g.cs
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker_MarkupCompile.cache
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker.g.resources
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker.csproj.CoreCompileInputs.cache
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker.exe
+C:\Users\lifec\Desktop\Брокерский портфель\PortfelBroker\obj\Debug\PortfelBroker.pdb
+C:\Users\lifec\Desktop\Broker\PortfelBroker\bin\Debug\PortfelBroker.exe.config
+C:\Users\lifec\Desktop\Broker\PortfelBroker\bin\Debug\PortfelBroker.exe
+C:\Users\lifec\Desktop\Broker\PortfelBroker\bin\Debug\PortfelBroker.pdb
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\PortfelBroker.csprojAssemblyReference.cache
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Bankomat.baml
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Pocup.baml
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Prod.baml
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Registr.baml
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Window1.baml
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Bankomat.g.cs
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Pocup.g.cs
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Prod.g.cs
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Registr.g.cs
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\Window1.g.cs
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\App.g.cs
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\PortfelBroker_MarkupCompile.cache
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\PortfelBroker.g.resources
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\PortfelBroker.csproj.CoreCompileInputs.cache
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\PortfelBroker.exe
+C:\Users\lifec\Desktop\Broker\PortfelBroker\obj\Debug\PortfelBroker.pdb

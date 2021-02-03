@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="PortfelBroker.Prod" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Width="419"
+	Height="346.992"
+	Title="Broker"
+    ResizeMode="NoResize">
+    <Grid
+		Background="#889AA5">
+        <StackPanel Margin="10"  >
+            <TextBlock
+            Foreground="White"
+			FontSize="16"
+			Text="Деньги:   "
+			x:Name="maney"
+			Grid.Column="0"
+			Grid.Row="0"
+			Margin="10,0,0,0"
+			Background="#889AA5" HorizontalAlignment="Left" Width="280" Height="25"  />
+            <TextBlock
+			FontSize="16"
+			x:Name="cenaM"
+			Text="Стоимость 1 акции в магазине:  "
+			TextWrapping="Wrap"
+			Grid.Column="0"
+			Grid.Row="0"
+			Margin="10,5,0,0"
+			Background="#889AA5" 
+            Foreground="White" HorizontalAlignment="Left" Width="355" Height="25" />
+            <TextBlock
+            Foreground="White"
+			FontSize="16"
+			x:Name="cenaP"
+			Text="Стоимость 1 акции в портфеле:   "
+			TextWrapping="Wrap"
+			Grid.Column="0"
+			Grid.Row="0"
+			Margin="10,5,0,0"
+			Background="#889AA5" HorizontalAlignment="Left" Width="355" Height="25" />
+            <TextBlock
+            Foreground="White"
+			FontSize="16"
+			Text="Количество акций:   "
+			x:Name="coll"
+			Grid.Column="0"
+			Grid.Row="0"
+                Margin="10,5,0,0"
+			Background="#889AA5" HorizontalAlignment="Left" Width="355" Height="25" />
+
+            <TextBox
+			FontSize="16"
+			TextAlignment="Center"
+			x:Name="textbox"
+			Text=""
+			TextChanged="textbox_TextChanged"
+			Grid.Column="0"
+			Grid.Row="0"
+                Margin="10,5,0,0"
+		 HorizontalAlignment="Left" Width="208" Height="30" />
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5,5,0,0" Height="40">
+                <Label Foreground="White" 
+               Content="Прибыль с продажи: " 
+               Margin="0,0,0,0"
+               FontSize="16" 
+               HorizontalAlignment="Left" Width="170" Height="35" />
+                <TextBlock
+            Foreground="White"
+			Background="#889AA5"
+			FontSize="16"
+			x:Name="cena9"
+			Text=""
+			TextAlignment="Center"
+			Grid.Column="0"
+			Grid.Row="0"
+			 HorizontalAlignment="Left" Width="132" Height="35" />
+            </StackPanel>
+
+            <Button
+			x:Name="prod"
+			Content="Продать"
+			Click="prod_Click"
+			Grid.Column="0"
+			Grid.Row="0"
+                Margin="0,50,20,0"
+			HorizontalAlignment="Right" Width="64" Height="30" />
+        </StackPanel>
+    </Grid>
+</Window>

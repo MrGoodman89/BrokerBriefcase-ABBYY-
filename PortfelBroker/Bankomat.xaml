@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="PortfelBroker.Bankomat" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Height="320"
+	Width="320"
+	Title="Банкомат"
+    ResizeMode="NoResize">
+    <Grid
+		Background="#889AA5">
+        <TextBox
+			Grid.Column="0"
+			Grid.Row="0"
+			Margin="45,65,35,163"
+			Name="textbox"
+			Background="White" HorizontalAlignment="Center" Width="212" Height="41"  />
+        <Button
+			Content="Внести"
+			x:Name="Vvod"
+			Click="Vvod_Click"
+			Grid.Column="0"
+			Grid.Row="0"
+			Margin="55,145,162,101" HorizontalAlignment="Center" Width="75" Height="23" />
+        <Button
+			Content="Вывести"
+			x:Name="Vivod"
+			Click="Vivod_Click"
+			Grid.Column="0"
+			Grid.Row="0"
+			Margin="160,147,57,99" Height="23"  HorizontalAlignment="Center" Width="75"/>
+        <TextBlock
+            x:Name="Info"
+			Grid.Column="0"
+			Grid.Row="0"
+			Margin="10,14,10,221"
+			Text="Введите сумму для внесения/снятия"
+			FontSize="16" 
+            Foreground="White" 
+            HorizontalAlignment="Center" Width="272" Height="34"  />
+    </Grid>
+</Window>
